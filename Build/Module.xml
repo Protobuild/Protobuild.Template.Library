@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name>Protobuild.Template.Library</Name>
+  <Authors>Redpoint Games</Authors>
+  <SemanticVersion>1.0.0</SemanticVersion>
+  <Description>The basic template for a C# library.</Description>
+  <LicenseUrl>https://opensource.org/licenses/MIT</LicenseUrl>
+  <ProjectUrl>https://protobuild.org/</ProjectUrl>
+  <GitRepositoryUrl>https://github.com/Protobuild/Protobuild.Template.Library</GitRepositoryUrl>
+  <DefaultAction>resync</DefaultAction>
+  <GenerateNuGetRepositories>true</GenerateNuGetRepositories>
+</Module>
